@@ -15,8 +15,7 @@
                 color: "black",
                 fontFamily: "monospace",
                 padding: "10px",
-                zIndex: "10000",
-                pointerEvents: "none"
+                zIndex: "10000"
             });
 
             function logToScreen(type, args) {
